@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.0 (2023-11-17)
+
+
+### Documentation
+
+* update gitignore ([e14e240](https://github.com/Dakoro/docker_tuto_2/commit/e14e24040689c9829ec6fe081f6c62713563db9c))
+
 ## 0.1.0 (2023-11-16)
 
 
