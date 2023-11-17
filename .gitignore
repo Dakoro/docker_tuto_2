@@ -5,6 +5,7 @@
 # Python #
 ##########################
 venv/
+env
 /packages/streamlit/.streamlit/secrets.toml
 .env
 
